@@ -6,6 +6,9 @@
 - CSS
 - JavaScript
 - GitHub
+
+Dica de mestre: No repo da projeto desejado, clique no símbolo " . " do teclado. O mesmo abrirá no editor de texto de sua máquina.
+Basta realizar suas edições, atualizações e aprimoramentos. Salve e verifique o status no GitHub.
   
 - ChatGPT
 
